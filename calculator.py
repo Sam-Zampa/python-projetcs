@@ -5,7 +5,7 @@ Input first number
 input function
 Input second number
 ---------
-code made in September 2023
+code made in August 2023
 """
 
 try:
